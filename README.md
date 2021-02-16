@@ -20,8 +20,14 @@ Here are some ideas to get you started:
 <br> With that said, welcome to my Github! Feel free to poke around, and please come say hi on Linkedin! </p>
 
 <p>
-<a target="_blank" href=”https://www.linkedin.com/in/kjchadwell/”>
-<img src=”https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=linkedin&labelColor=blue">
+<a target="_blank" href="https://www.linkedin.com/in/kjchadwell/”>
+<img src="https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=linkedin&labelColor=blue">
+</a>
+</p>
+
+<p>
+<a target="_blank" href="https://twitter.com/Kim__Chadwell”>
+<img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&labelColor=blue">
 </a>
 </p>
 
