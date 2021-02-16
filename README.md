@@ -19,14 +19,11 @@ Here are some ideas to get you started:
 <p> Kim Chadwell speaking, a little about me since you're here: I am a fullstack developer with a degree in anthropology. This background has gifted me with a fascination with the human condition, and how we communicate. I pursue roles that I feel support conscientious and inclusive business practices, as well as increased accessbility of resources to a larger audience. 
 <br> With that said, welcome to my Github! Feel free to poke around, and please come say hi on Linkedin! </p>
 
-<p>
-<a target="_blank" href="https://www.linkedin.com/in/kjchadwell/”>
+<p align="left">
+<a target="_blank" href="https://www.linkedin.com/in/kjchadwell/">
 <img src="https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=linkedin&labelColor=blue">
 </a>
-</p>
-
-<p>
-<a target="_blank" href="https://twitter.com/Kim__Chadwell”>
+<a target="_blank" href="https://twitter.com/Kim__Chadwell">
 <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&labelColor=blue">
 </a>
 </p>
