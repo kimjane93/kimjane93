@@ -41,10 +41,8 @@ Here are some ideas to get you started:
 
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png"><img width="50" align="left" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" style="max-width:100%;"></a>
 <br>
-<hr/>
-
-
 <br>
+<hr/>
 
 <p>
   <a href="https://github.com/kimjane93/github-readme-stats">
