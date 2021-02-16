@@ -12,14 +12,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-Pronouns: she/her/hers
+<p align="center">Pronouns: she/her/hers</p>
+<p align="center">Zodiac: :cow:</p>
 
 ## Hey all, 
 <p> Kim Chadwell speaking, a little about me since you're here: I am a fullstack developer with a degree in anthropology. This background has gifted me with a fascination with the human condition, and how we communicate. I pursue roles that I feel support conscientious and inclusive business practices, as well as increased accessbility of resources to a larger audience. 
 <br> With that said, welcome to my Github! Feel free to poke around, and please come say hi on Linkedin! </p>
 <hr>
 
-<p>
+<p align="center">
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img width="50" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;"></a>
 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"><img width="50" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" style="max-width:100%;"></a>
@@ -43,10 +44,14 @@ Pronouns: she/her/hers
 <br>
 <br>
 <hr>
-<a href="https://github.com/kimjane93/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimjane93&theme=buefy&show_icons=true" />
-</a> 
-<hr>
-<a href="https://github.com/kimjane93/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjane93" />
-</a>
+<p align="center">
+  <a href="https://github.com/kimjane93/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimjane93&theme=buefy&show_icons=true" />
+  </a> 
+</p>
+
+<p align="center">
+  <a href="https://github.com/kimjane93/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjane93" />
+  </a>
+</p>
