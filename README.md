@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p> Kim Chadwell speaking, a little about me since you're here: I am a fullstack developer with a degree in anthropology. This background has gifted me with a fascination with the human condition, and how we communicate. I pursue roles that I feel support conscientious and inclusive business practices, as well as increased accessbility of resources to a larger audience. 
 <br> With that said, welcome to my Github! Feel free to poke around, and please come say hi on Linkedin! </p>
 
-<hr>
+
 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img width="50" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;"></a>
 
@@ -41,12 +41,11 @@ Here are some ideas to get you started:
 
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png"><img width="50" align="left" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" style="max-width:100%;"></a>
 
-<hr>
+
 
 <br>
 <br>
 
-<hr>
 <p>
   <a href="https://github.com/kimjane93/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimjane93&theme=buefy&show_icons=true" />
