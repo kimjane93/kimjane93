@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p align="center">Zodiac: :cow:</p>
 
 ## Hey all,
-<p> Kim Chadwell speaking, a little about me since you're here: I am a fullstack developer with a degree in anthropology. This background has gifted me with a fascination with the human condition, and how we communicate. I pursue roles that I feel support conscientious and inclusive business practices, as well as increased accessbility of resources to a larger audience. 
+<p> Kim Chadwell speaking, a little about me since you're here: I am a front-end/fullstack developer with a fascination with the human condition, and how our methods of communication and interaction evolve over time. This mindset, heavily influenced by my background in anthropology, has manifested in the entirety of my career path, through pursuing diverse work environments and roles that support conscientious and inclusive business practices, as well as increased accessibility of resources to a larger audience. 
 <br> With that said, welcome to my Github! Feel free to poke around, and please come say hi on Linkedin! </p>
 
 <p align="left">
